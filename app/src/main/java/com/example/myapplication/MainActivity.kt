@@ -70,6 +70,7 @@ fun GameScreen(modifier: Modifier = Modifier){
         Spacer(modifier = modifier.height(150.dp))
         Text(
             text = stringResource(R.string.target_value, targetValue),
+            fontSize = 20.sp
             )
         Spacer(modifier = Modifier.height(120.dp))
         Slider(

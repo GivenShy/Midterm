@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bull_s_eye_game">Bull\'s Eye Game</string>
+    <string name="target_value">Target Value: %1$s</string>
+    <string name="hit_me">Hit Me!</string>
+    <string name="your_score">Your Score: %1$s</string>
+</resources>
